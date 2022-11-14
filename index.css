@@ -1,0 +1,61 @@
+h1{
+  font-size: 20mm;
+font-weight: bold;  
+color: red;
+display: flex;
+ }
+.logo-MIAT{
+  width: 70px;
+}
+
+
+#link{
+  display: flex;
+  justify-content: space-around; right ;
+  list-style: none;
+}
+#name{
+  font-size: 12px;
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+#link {
+  background: rgb(143 226 245) ;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 90px;
+
+}
+p{
+ text-align: center;
+ padding: 20px;
+}
+#img{
+  display: flex;
+  justify-content: space-around;
+  list-style: none; 
+
+}
+#pimg12{
+  display: flex;
+  justify-content: space-around;
+list-style: none
+}
+#taginformation{
+  display: flex;
+  text-align: center;
+}
+#div{
+  display: flex;
+}
+h2{
+  text-align: center;
+}
+.liste{
+  display: flex;
+  text-align: left;
+}
+
